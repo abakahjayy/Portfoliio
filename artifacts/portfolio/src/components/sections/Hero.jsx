@@ -150,22 +150,55 @@ export function Hero() {
                   style={{ position: "absolute", bottom: "10%", left: "10%", width: "100px", height: "100px", background: "linear-gradient(135deg, #8b5cf6, #d946ef)", borderRadius: "50%", filter: "blur(30px)", opacity: 0.5 }}
                 />
                 
-                {/* Profile Placeholder */}
-                <Box 
-                  w="full" h="full" bg="panel" borderRadius="3xl" border="1px solid" borderColor="borderBase"
-                  backdropFilter="blur(20px)" overflow="hidden" position="relative"
-                  boxShadow="0 25px 50px -12px rgba(0, 0, 0, 0.5)"
-                >
-                  <Flex w="full" h="full" align="center" justify="center" bg="glass.dark">
-                    <Box textAlign="center">
-                      <FiCode size={64} color="var(--chakra-colors-brand-500)" style={{ margin: "0 auto", opacity: 0.5 }} />
-                      <Text mt={4} color="textMuted" fontFamily="mono" fontSize="sm">&lt;ProfileImage /&gt;</Text>
-                    </Box>
-                  </Flex>
-                  {/* Decorative corner accents */}
-                  <Box position="absolute" top={0} left={0} w="40px" h="40px" borderTop="2px solid" borderLeft="2px solid" borderColor="brand.500" borderTopLeftRadius="3xl" m={4} />
-                  <Box position="absolute" bottom={0} right={0} w="40px" h="40px" borderBottom="2px solid" borderRight="2px solid" borderColor="purple.500" borderBottomRightRadius="3xl" m={4} />
-                </Box>
+                {/* Profile Image */}
+<Box 
+  w="full" 
+  h="full" 
+  bg="panel" 
+  borderRadius="3xl" 
+  border="1px solid" 
+  borderColor="borderBase"
+  backdropFilter="blur(20px)" 
+  overflow="hidden" 
+  position="relative"
+  boxShadow="0 25px 50px -12px rgba(0, 0, 0, 0.5)"
+>
+  <Box
+    as="img"
+    src="/profpic.jpeg"
+    alt="Abakah Joshua Blessed"
+    w="full"
+    h="full"
+    objectFit="cover"
+  />
+
+  {/* Decorative corner accents */}
+  <Box 
+    position="absolute" 
+    top={0} 
+    left={0} 
+    w="40px" 
+    h="40px" 
+    borderTop="2px solid" 
+    borderLeft="2px solid" 
+    borderColor="brand.500" 
+    borderTopLeftRadius="3xl" 
+    m={4} 
+  />
+
+  <Box 
+    position="absolute" 
+    bottom={0} 
+    right={0} 
+    w="40px" 
+    h="40px" 
+    borderBottom="2px solid" 
+    borderRight="2px solid" 
+    borderColor="purple.500" 
+    borderBottomRightRadius="3xl" 
+    m={4} 
+  />
+</Box>
               </Box>
             </motion.div>
           </Box>
