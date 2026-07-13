@@ -17,16 +17,14 @@ const formSchema = z.object({
   message: z.string().min(10, "Message must be at least 10 characters"),
 });
 
-type FormData = z.infer<typeof formSchema>;
-
 export function Contact() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const { register, handleSubmit, formState: { errors }, reset } = useForm<FormData>({
+  const { register, handleSubmit, formState: { errors }, reset } = useForm({
     resolver: zodResolver(formSchema)
   });
 
-  const onSubmit = async (data: FormData) => {
+  const onSubmit = async (data) => {
     setIsSubmitting(true);
     try {
       const res = await fetch(`${import.meta.env.BASE_URL}api/contact`, {

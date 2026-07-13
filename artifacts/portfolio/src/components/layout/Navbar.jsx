@@ -23,7 +23,7 @@ export function Navbar() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const scrollTo = (id: string) => {
+  const scrollTo = (id) => {
     setMobileNavOpen(false);
     const element = document.querySelector(id);
     if (element) {

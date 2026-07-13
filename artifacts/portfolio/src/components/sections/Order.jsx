@@ -22,16 +22,14 @@ const orderSchema = z.object({
   agreeToBeContacted: z.boolean().refine(val => val === true, "You must agree to be contacted")
 });
 
-type OrderData = z.infer<typeof orderSchema>;
-
 export function Order() {
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const { register, handleSubmit, formState: { errors }, reset } = useForm<OrderData>({
+  const { register, handleSubmit, formState: { errors }, reset } = useForm({
     resolver: zodResolver(orderSchema)
   });
 
-  const onSubmit = async (data: OrderData) => {
+  const onSubmit = async (data) => {
     setIsSubmitting(true);
     try {
       const res = await fetch(`${import.meta.env.BASE_URL}api/order`, {
