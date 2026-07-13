@@ -5,42 +5,42 @@ import { FiExternalLink, FiGithub } from "react-icons/fi";
 const projects = [
   {
     title: "SeedBridge",
-    description: "AI-powered Farmer-to-Buyer Marketplace facilitating direct agricultural trade and price prediction.",
+    description: "AI-powered Farmer-to-Buyer agricultural marketplace facilitating direct trade, price prediction, and supply chain visibility for farmers and buyers.",
     tech: ["React", "Node.js", "MongoDB", "Express", "AI"],
     image: "https://images.unsplash.com/photo-1592982537447-6f2a6a0a221f?auto=format&fit=crop&q=80&w=800",
-    liveUrl: "#",
+    liveUrl: "https://seedbridge-blueprint.onrender.com",
     githubUrl: "#"
   },
   {
-    title: "AI Chatbot Platform",
-    description: "Modern AI chatbot platform supporting OpenRouter and multiple LLM providers with streaming capabilities.",
-    tech: ["Next.js", "TypeScript", "LangChain", "OpenRouter"],
+    title: "GH-GPT",
+    description: "AI chatbot platform powered by a custom-built AI model, delivering conversational responses without relying on third-party LLM APIs.",
+    tech: ["React", "Node.js", "Custom AI Model", "Express"],
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
-    liveUrl: "#",
+    liveUrl: "https://gh-gpt.onrender.com",
     githubUrl: "#"
   },
   {
-    title: "Smart Water Monitoring System",
-    description: "IoT-powered water level monitoring and overflow prevention system with real-time dashboard analytics.",
-    tech: ["React", "IoT", "Firebase", "Node.js"],
-    image: "https://images.unsplash.com/photo-1541888002660-f65561a7a1ee?auto=format&fit=crop&q=80&w=800",
-    liveUrl: "#",
+    title: "Instagram Clone",
+    description: "Full-featured social media clone replicating core Instagram functionality — feeds, posts, likes, and profiles — built end-to-end with React.",
+    tech: ["React", "Node.js", "Express", "MongoDB"],
+    image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=800",
+    liveUrl: "https://react-products-hcld.onrender.com",
     githubUrl: "#"
   },
   {
-    title: "Air Quality Analysis Dashboard",
-    description: "Python-powered environmental analytics dashboard providing interactive charts and insights.",
-    tech: ["Python", "Django", "Chart.js", "Pandas"],
-    image: "https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&q=80&w=800",
-    liveUrl: "#",
+    title: "Universal Backend Service",
+    description: "A fully integrated backend service designed for easy reuse across all of my applications — centralizing auth, data, and API logic in one place.",
+    tech: ["Node.js", "Express", "MongoDB", "REST API"],
+    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800",
+    liveUrl: "https://fullbackendd.onrender.com",
     githubUrl: "#"
   },
   {
-    title: "Business Management ERP",
-    description: "Full-stack ERP and business management platform streamlining operations, inventory, and HR.",
-    tech: ["React", "NestJS", "PostgreSQL", "Redis"],
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
-    liveUrl: "#",
+    title: "OpenLabs Backend",
+    description: "A lightweight, dedicated backend service built to power a set of smaller experimental projects and prototypes.",
+    tech: ["Node.js", "Express", "REST API"],
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=800",
+    liveUrl: "https://openlabs-project-2.onrender.com",
     githubUrl: "#"
   }
 ];

@@ -4,40 +4,34 @@ import { FiExternalLink } from "react-icons/fi";
 
 const websites = [
   {
-    title: "Apex Finance Co.",
-    description: "Corporate website for a financial advisory firm with custom calculators.",
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600",
-    url: "#"
+    title: "SeedBridge",
+    description: "AI-powered agricultural marketplace connecting farmers directly to buyers.",
+    image: "https://images.unsplash.com/photo-1592982537447-6f2a6a0a221f?auto=format&fit=crop&q=80&w=600",
+    url: "https://seedbridge-blueprint.onrender.com"
   },
   {
-    title: "Luxe Real Estate",
-    description: "Premium property listing platform with interactive maps and 3D tours.",
-    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=600",
-    url: "#"
+    title: "GH-GPT",
+    description: "AI chatbot platform running on a custom-built AI model.",
+    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=600",
+    url: "https://gh-gpt.onrender.com"
   },
   {
-    title: "Savor Restaurant",
-    description: "Dynamic restaurant site featuring online reservations and digital menus.",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&q=80&w=600",
-    url: "#"
+    title: "Instagram Clone",
+    description: "Full-featured social media clone with feeds, posts, and profiles.",
+    image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=600",
+    url: "https://react-products-hcld.onrender.com"
   },
   {
-    title: "EduTech Academy",
-    description: "Online learning platform for K-12 students with course progression tracking.",
-    image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=600",
-    url: "#"
+    title: "Universal Backend Service",
+    description: "Fully integrated backend powering all of my applications, built for easy reuse.",
+    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=600",
+    url: "https://fullbackendd.onrender.com"
   },
   {
-    title: "MedCare Clinic",
-    description: "Healthcare facility website with patient portal and appointment booking.",
-    image: "https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&q=80&w=600",
-    url: "#"
-  },
-  {
-    title: "StyleDrop E-Commerce",
-    description: "Modern fashion storefront built with Next.js and headless Shopify.",
-    image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=600",
-    url: "#"
+    title: "OpenLabs Backend",
+    description: "Dedicated backend service powering a set of smaller experimental projects.",
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=600",
+    url: "https://openlabs-project-2.onrender.com"
   }
 ];
 
@@ -50,7 +44,7 @@ export function LiveWebsites() {
             Live Websites
           </Heading>
           <Text color="textMuted" maxW="2xl" mx="auto" fontSize="lg">
-            Production-ready business websites built for clients across various industries.
+            Real, production-deployed projects and services — click through to try them live.
           </Text>
         </Box>
 
@@ -85,7 +79,7 @@ export function LiveWebsites() {
                     display="inline-flex" alignItems="center" gap={2} fontSize="sm" fontWeight="600" color="brand.500"
                     _hover={{ color: "brand.400" }}
                   >
-                    Visit Site (Placeholder) <FiExternalLink />
+                    Visit Live Site <FiExternalLink />
                   </Box>
                 </Box>
               </Box>
