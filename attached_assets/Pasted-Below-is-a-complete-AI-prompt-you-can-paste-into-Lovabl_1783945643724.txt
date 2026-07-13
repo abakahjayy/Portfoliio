@@ -1,0 +1,828 @@
+Below is a **complete AI prompt** you can paste into Lovable, Bolt.new, v0, Replit AI, Firebase Studio, Claude, or any AI website builder to generate a **premium, production-ready portfolio website**.
+
+---
+
+# PROMPT
+
+Build me a **world-class, premium, fully responsive, modern portfolio website** for a software engineer and full-stack developer.
+
+The website should look like something built by an award-winning UI/UX designer.
+
+## Owner Information
+
+**Name**
+
+Abakah Joshua Blessed
+
+**Professional Title**
+
+Full Stack Software Engineer | Backend Engineer | AI Developer | Web Application Developer
+
+**Brand Name**
+
+**Joshua.Dev**
+
+**Website Label**
+
+**Building Powerful Digital Experiences for Businesses**
+
+Alternative slogan:
+
+> Clean Code. Smart Solutions. Beautiful Experiences.
+
+---
+
+# Design Requirements
+
+The design should be:
+
+* extremely modern
+* glassmorphism
+* smooth animations
+* premium gradients
+* dark mode by default
+* optional light mode
+* animated backgrounds
+* floating particles
+* subtle glowing effects
+* professional typography
+* beautiful spacing
+* highly interactive
+* mobile-first
+* tablet optimized
+* desktop optimized
+
+Use:
+
+* React
+* Next.js
+* TypeScript
+* TailwindCSS
+* Framer Motion
+* GSAP where appropriate
+* Shadcn UI
+* Lucide Icons
+
+The website should score over 95 on Lighthouse.
+
+---
+
+# Hero Section
+
+Large hero section with animated entrance.
+
+Include:
+
+"Hello 👋"
+
+# I'm
+
+## Abakah Joshua Blessed
+
+Animated typing effect cycling through
+
+* Full Stack Developer
+* Backend Engineer
+* AI Developer
+* Web Designer
+* API Architect
+* Cloud Developer
+
+CTA Buttons
+
+* Hire Me
+* View My Work
+* Download Resume
+
+On the right side place a professional developer illustration or profile image placeholder.
+
+Animated background.
+
+---
+
+# About Me
+
+Create a professional biography.
+
+Example:
+
+> I am Abakah Joshua Blessed, a passionate Full Stack Software Engineer from Ghana who enjoys transforming ideas into scalable digital products.
+
+My expertise includes building high-performance web applications, backend APIs, AI-powered systems, business websites, SaaS platforms, and custom software solutions.
+
+I love solving real-world problems through technology while creating elegant user experiences and efficient backend architectures.
+
+I continually learn new technologies to stay ahead in modern software development.
+
+---
+
+# Skills Section
+
+Display animated cards.
+
+Languages
+
+* JavaScript
+* TypeScript
+* Python
+* Java
+* C++
+* SQL
+
+Frontend
+
+* React
+* Next.js
+* TailwindCSS
+* HTML5
+* CSS3
+* Shadcn
+* Framer Motion
+
+Backend
+
+* Node.js
+* Express.js
+* NestJS
+* REST API
+* GraphQL
+
+Database
+
+* MongoDB
+* PostgreSQL
+* MySQL
+* Firebase
+* Redis
+
+Cloud
+
+* Docker
+* AWS
+* Render
+* Vercel
+* Railway
+
+AI
+
+* OpenAI
+* OpenRouter
+* LangChain
+* HuggingFace
+
+Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Figma
+
+Display animated progress bars.
+
+---
+
+# Experience Timeline
+
+Beautiful timeline.
+
+Include placeholder experiences that can later be edited.
+
+---
+
+# Featured Projects
+
+Beautiful project cards.
+
+Include space for images.
+
+Hover animations.
+
+Buttons
+
+* Live Demo
+* Source Code
+
+Include these projects:
+
+## Project 1
+
+SeedBridge
+
+Description
+
+AI-powered Farmer-to-Buyer Marketplace.
+
+Technologies
+
+React
+Node.js
+MongoDB
+Express
+
+---
+
+## Project 2
+
+AI Chatbot Platform
+
+Description
+
+Modern AI chatbot supporting OpenRouter and multiple LLM providers.
+
+---
+
+## Project 3
+
+Smart Water Monitoring System
+
+Description
+
+IoT-powered water level monitoring and overflow prevention system.
+
+---
+
+## Project 4
+
+Air Quality Analysis Dashboard
+
+Description
+
+Python-powered environmental analytics dashboard with charts and insights.
+
+---
+
+## Project 5
+
+Business Management System
+
+Description
+
+Full-stack ERP and business management platform.
+
+---
+
+# My Websites
+
+Create a dedicated section called
+
+## Live Websites
+
+Show six elegant cards.
+
+Each should contain
+
+Website Image
+
+Title
+
+Description
+
+Visit Button
+
+For now use placeholder URLs.
+
+I will replace later.
+
+---
+
+# Open Source
+
+Create a beautiful GitHub section.
+
+Show
+
+Repositories
+
+Followers
+
+Stars
+
+Pinned Projects
+
+Contribution Graph
+
+Include button
+
+Visit GitHub
+
+GitHub Username placeholder.
+
+---
+
+# Backend APIs
+
+Create a premium section titled
+
+## Backend Services
+
+Include two cards.
+
+### Multi-Purpose Backend API
+
+Features
+
+Authentication
+
+Payments
+
+Email
+
+Notifications
+
+File Upload
+
+Database
+
+API Documentation
+
+JWT
+
+Role Management
+
+Analytics
+
+Live Demo Button
+
+Documentation Button
+
+---
+
+### AI Backend Platform
+
+Features
+
+OpenRouter
+
+OpenAI
+
+Streaming
+
+Chat Memory
+
+Conversation History
+
+Image Generation
+
+Authentication
+
+Admin Dashboard
+
+Rate Limiting
+
+Analytics
+
+---
+
+# Services
+
+Display animated pricing cards.
+
+Offer
+
+Business Website
+
+Portfolio Website
+
+School Project
+
+Restaurant Website
+
+Church Website
+
+Company Website
+
+Real Estate Website
+
+Hospital Website
+
+Inventory System
+
+POS System
+
+E-commerce Store
+
+Learning Management System
+
+SaaS Development
+
+AI Chatbot
+
+Backend Development
+
+Custom API
+
+Automation
+
+---
+
+# Why Choose Me
+
+Animated feature cards.
+
+Fast Delivery
+
+Clean Code
+
+Modern Design
+
+SEO Optimized
+
+Responsive
+
+Affordable
+
+Reliable
+
+Secure
+
+Scalable
+
+Maintenance
+
+---
+
+# Testimonials
+
+Beautiful carousel.
+
+Use sample client reviews.
+
+---
+
+# Process
+
+Show timeline.
+
+Discovery
+
+Planning
+
+Design
+
+Development
+
+Testing
+
+Deployment
+
+Support
+
+---
+
+# Pricing
+
+Three plans.
+
+Starter
+
+Professional
+
+Enterprise
+
+Modern pricing cards.
+
+---
+
+# FAQ
+
+Accordion.
+
+Questions about
+
+Pricing
+
+Timeline
+
+Support
+
+Hosting
+
+Maintenance
+
+Payment
+
+---
+
+# Blog Section
+
+Latest Articles
+
+Placeholder blog cards.
+
+---
+
+# Contact Section
+
+Professional contact page.
+
+Contact Form
+
+Fields
+
+Full Name
+
+Email
+
+Phone Number
+
+Subject
+
+Project Type
+
+Budget
+
+Timeline
+
+Message
+
+When submitted
+
+Send an email directly to
+
+**[abakahjoshua358@gmail.com](mailto:abakahjoshua358@gmail.com)**
+
+Use EmailJS or a backend API.
+
+Display success and error notifications.
+
+---
+
+# Contact Information
+
+Email
+
+[abakahjoshua358@gmail.com](mailto:abakahjoshua358@gmail.com)
+
+Phone
+
++233 53 290 0914
+
++233 25 744 5431
+
+Country
+
+Ghana
+
+---
+
+# Social Links
+
+Create beautiful animated icons.
+
+Instagram
+
+abakah_jay
+
+TikTok
+
+abakah_jay
+
+Snapchat
+
+abakah_jay
+
+GitHub
+
+Placeholder
+
+LinkedIn
+
+Placeholder
+
+Facebook
+
+Placeholder
+
+X (Twitter)
+
+Placeholder
+
+WhatsApp
+
+Link directly to
+
++233532900914
+
+---
+
+# Website Ordering Section
+
+Create a premium section titled
+
+## Let's Build Your Dream Website
+
+Include a large order form.
+
+Fields
+
+Business Name
+
+Name
+
+Email
+
+Phone
+
+Project Type
+
+Website Pages
+
+Features Needed
+
+Budget
+
+Deadline
+
+Reference Website
+
+Project Description
+
+Preferred Contact Method
+
+Checkbox
+
+"I agree to be contacted."
+
+When submitted
+
+Send email to
+
+[abakahjoshua358@gmail.com](mailto:abakahjoshua358@gmail.com)
+
+Show success animation.
+
+---
+
+# Footer
+
+Professional footer.
+
+Logo
+
+Joshua.Dev
+
+Quick Links
+
+Projects
+
+Services
+
+Contact
+
+GitHub
+
+Social Icons
+
+Newsletter
+
+Copyright
+
+© 2026 Joshua.Dev
+
+Built with ❤️ by Abakah Joshua Blessed
+
+---
+
+# Animations
+
+Use Framer Motion throughout.
+
+Smooth scrolling
+
+Page transitions
+
+Hover effects
+
+Card tilt
+
+Gradient animations
+
+Text reveal
+
+Number counters
+
+Progress bars
+
+Parallax effects
+
+Floating blobs
+
+Mouse glow
+
+Cursor effects
+
+Loading screen
+
+Scroll progress indicator
+
+Back to top button
+
+---
+
+# SEO
+
+Generate complete SEO.
+
+Meta title
+
+Meta description
+
+Open Graph
+
+Twitter Cards
+
+Schema.org
+
+Robots
+
+Sitemap
+
+Canonical URLs
+
+---
+
+# Performance
+
+Lazy loading
+
+Image optimization
+
+Code splitting
+
+SEO optimized
+
+Accessibility optimized
+
+Responsive
+
+Fast loading
+
+---
+
+# Admin Features
+
+Include an admin-ready structure.
+
+Projects editable
+
+Testimonials editable
+
+Blog editable
+
+Services editable
+
+Pricing editable
+
+Contact submissions stored
+
+Dashboard placeholders
+
+---
+
+# Tech Stack
+
+Use
+
+* Next.js 15
+* React 19
+* TypeScript
+* TailwindCSS
+* Shadcn UI
+* Framer Motion
+* GSAP
+* React Hook Form
+* Zod Validation
+* EmailJS (or Nodemailer backend)
+* Lucide Icons
+* Vercel Deployment Ready
+
+---
+
+# Final Requirements
+
+Generate a complete production-ready website with:
+
+* Beautiful premium UI
+* Modern animations
+* Fully responsive layout
+* Working navigation
+* Functional contact form
+* Functional website order form
+* SEO optimization
+* Accessibility compliance
+* Dark/light mode
+* Reusable components
+* Clean folder structure
+* TypeScript best practices
+* Placeholder sections that are easy to update
+* Professional loading screen
+* Custom 404 page
+* Privacy Policy page
+* Terms of Service page
+* Sitemap
+* Robots.txt
+* Favicon support
+* Ready for deployment to Vercel, Netlify, or Render.
+
+The final result should look and feel comparable to the portfolios of top developers and creative agencies, with polished interactions, smooth performance, and a premium user experience suitable for attracting clients and showcasing professional work.

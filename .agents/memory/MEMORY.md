@@ -1,0 +1,1 @@
+- [Chakra UI v3 gotchas](chakra-ui-v3.md) — no `extendTheme`/`useToast`; use `createSystem`/`createToaster` instead. Also verify `react-icons` names exist before importing.
