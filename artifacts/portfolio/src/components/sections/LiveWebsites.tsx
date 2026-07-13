@@ -6,7 +6,7 @@ const websites = [
   {
     title: "SeedBridge",
     description: "AI-powered agricultural marketplace connecting farmers directly to buyers.",
-    image: "https://images.unsplash.com/photo-1592982537447-6f2a6a0a221f?auto=format&fit=crop&q=80&w=600",
+    image: "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&q=80&w=600",
     url: "https://seedbridge-blueprint.onrender.com"
   },
   {

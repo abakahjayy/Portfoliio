@@ -7,7 +7,7 @@ const projects = [
     title: "SeedBridge",
     description: "AI-powered Farmer-to-Buyer agricultural marketplace facilitating direct trade, price prediction, and supply chain visibility for farmers and buyers.",
     tech: ["React", "Node.js", "MongoDB", "Express", "AI"],
-    image: "https://images.unsplash.com/photo-1592982537447-6f2a6a0a221f?auto=format&fit=crop&q=80&w=800",
+    image: "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&q=80&w=800",
     liveUrl: "https://seedbridge-blueprint.onrender.com",
     githubUrl: "#"
   },
